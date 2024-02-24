@@ -17,20 +17,21 @@ Generate a backend and frontend stack using Python, including interactive API do
 
 ### Interactive API documentation
 
-![1](https://github.com/PranavPatil7/BasePrjGen/assets/30521517/954dccde-6d3d-4277-ae3e-9c8571837184)
+![1](https://github.com/PranavPatil7/BasePrjGen/assets/30521517/5ee516c3-5e89-4818-bf71-883025962a29)
 
 ### Alternative API documentation
 
-![2](https://github.com/PranavPatil7/BasePrjGen/assets/30521517/b1e10cd4-6c62-4346-83bc-ea6d0e0d9a65)
+![2](https://github.com/PranavPatil7/BasePrjGen/assets/30521517/e4e9eb9d-ab83-4ab4-a876-75f3b71857a0)
 
 ### Dashboard Login
 
-![3](https://github.com/PranavPatil7/BasePrjGen/assets/30521517/32a9100a-1062-403e-a2ee-86114e83fb0c)
-
+![3](https://github.com/PranavPatil7/BasePrjGen/assets/30521517/a5e66f1b-995b-4631-918f-5ea2bb74f555)
 
 ### Dashboard - Create User
 
-![4](https://github.com/PranavPatil7/BasePrjGen/assets/30521517/8ebcecca-2dcb-46de-8b57-8f7e13495521)
+![4](https://github.com/PranavPatil7/BasePrjGen/assets/30521517/9b01b915-3478-4336-9fbb-91a2abdea027)
+
+
 
 
 ## Features
